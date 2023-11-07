@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/Chenjun-Qiu/Chenjun-Qiu/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Chenjun-Qiu/Chenjun-Qiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
